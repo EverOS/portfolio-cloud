@@ -1,20 +1,25 @@
-# 🌩️ Portfólio de Cloud e Infraestrutura
+# 🌥️ Portfólio Cloud & Infraestrutura 🌩️
 
-Bem-vindo ao meu portfólio!  
-Aqui vou compartilhar meus estudos e laboratórios práticos sobre **Cloud Computing**, **Linux**, **Infraestrutura** e **DevOps**.
-
-👉 Este repositório está em construção enquanto eu aprendo e pratico.  
-Cada projeto será documentado com o que foi feito e o que aprendi durante o processo.
+Olá! 👋🏼  
+Sou o **Everton**, formado em Redes de Computadores.  
+Criei este repositório pra registrar meus estudos e laboratórios sobre **Cloud**, **Linux** e **Infraestrutura** — aprendendo na prática, um passo de cada vez.
 
 ---
 
-## 📂 Estrutura prevista
-- `aws-s3-static-site/` — primeiro laboratório: site estático no S3  
-- `aws-ec2-webserver/` — segundo laboratório: servidor web no EC2  
-- `linux-backup-script/` — automação simples com Shell Script  
+## 🗂️ Projetos
+
+📦 **AWS & Cloud Labs**
+- [`aws-s3-static-site`](./aws-s3-static-site) → site estático hospedado no Amazon S3  
+- [`aws-ec2-webserver`](./aws-ec2-webserver) → servidor Linux configurado na AWS EC2  
+
+💻 **Linux & Automação**
+- [`linux-backup-script`](./linux-backup-script) → script de backup automatizado com Shell  
+
+🗒️ Cada projeto tem um README explicando o que foi feito e o que aprendi.
 
 ---
 
-📫 **Contato**
-- LinkedIn: [https://www.linkedin.com/in/everton-os](https://www.linkedin.com/in/everton-os)  
-- GitHub: [https://github.com/EverOS](https://github.com/EverOS)
+## 💬 Contato
+
+📫 [LinkedIn](https://www.linkedin.com/in/everton-os)  
+💻 [GitHub](https://github.com/EverOS)
