@@ -1,8 +1,8 @@
 # 🌥️ Portfólio Cloud & Infraestrutura 🌩️
 
 Olá! 👋🏼  
-Sou o **Everton**, formado em Redes de Computadores.  
-Criei este repositório pra registrar meus estudos e laboratórios sobre **Cloud**, **Linux** e **Infraestrutura** — aprendendo na prática, um passo de cada vez.
+Sou o **Everton**, formado em Redes de Computadores.
+Criei este repositório pra registrar meus estudos e laborator‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍órios sobre **Cloud**, **Linux** e **Infraestrutura** — aprendendo na prática, um passo de cada vez. 🚀  
 
 ---
 
@@ -19,7 +19,7 @@ Criei este repositório pra registrar meus estudos e laboratórios sobre **Cloud
 
 ---
 
-## 💬 Contato
+## 💬 Contato  
 
-📫 [LinkedIn](https://www.linkedin.com/in/everton-os)  
+🔗 [LinkedIn](https://www.linkedin.com/in/everton-os)  
 💻 [GitHub](https://github.com/EverOS)
